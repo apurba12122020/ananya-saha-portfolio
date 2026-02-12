@@ -3,7 +3,7 @@
 Personal portfolio website showcasing my experience in Computer Science, Data Analysis, and MBA studies.
 
 ## 🌐 Live Demo
-[View Portfolio][https://ananyasaha.github.io](https://apurba12122020.github.io/ananya-saha-portfolio/)
+[View Portfolio](https://apurba12122020.github.io/ananya-saha-portfolio/)
 
 ## 🛠️ Built With
 - HTML5
